@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Hello World with Dr. Dan - A Complete Introduction to Programming from Java to C++ (Code and Course © Dan Grissom)
+// Hello World with Dr. Dan - A Complete Introduction to Programming from Java to C++ (Code and Course ï¿½ Dan Grissom)
 //
 // Additional Lesson Resources from Dr. Dan:
 //		High-Quality Video Tutorials: www.helloDrDan.com
@@ -24,6 +24,7 @@ public class Lesson_01_Recursion_Math_Examples {
 		long e = 4;
 		long result = recursivePower(b, e); // Equivalent => Math.pow(b, e);
 		System.out.printf("%s^%s = %,d\n", b, e, result);
+		System.out.println("Hello");
 
 		////////////////////////////////////////////////////////////
 		// Recursive factorial computation	
